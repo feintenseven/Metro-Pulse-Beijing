@@ -1,0 +1,12 @@
+{
+  "stations": 318,
+  "stations_with_coords": 318,
+  "stations_without_coords": [],
+  "topo_edges": 355,
+  "transfer_stations": 52,
+  "od_records": 8459009,
+  "days": 7,
+  "patched_named": 9,
+  "patched_coord_only": 10,
+  "note": "19个原编号站已补坐标+拓扑;其中9个补推定站名(见station_alias.csv),14号线段10站保留编号仅连通"
+}
