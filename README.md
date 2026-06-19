@@ -215,3 +215,9 @@ date, window_idx, time_range, source, target, flow
 - Heatmap HTML files require an internet connection (Leaflet tiles loaded from CDN)
 - `od_flows.csv` is ~391 MB — do not open directly with Excel, use Python for analysis
 - Synthetic passenger demand points are generated for areas not covered by real station data, using exponential decay from city center and interpolation from nearby stations
+
+---
+
+## Acknowledgments
+
+This project was developed as a collaborative coursework project for **AICT** at **PKU**.
